@@ -21,7 +21,7 @@ const App=()=>{
   return (
     <>
     <div className='container'>
-      <h1>React Todo list</h1>
+      <h1>React Todo List</h1>
       <List todoList={todoList} deleteFunc={deleteFunc}/>
       <Form todoList={todoList} setTodoList={setTodoList}/>
     </div>
