@@ -1,0 +1,9 @@
+.container{
+  display: flex;
+  flex-direction: column; /* 垂直方向に並べる */
+  align-items: center;    /* 中央揃えにする（オプション） */
+  /* gap: 10px;               */
+}
+body{
+  background-color:rgba(0, 255, 255, 0.174);
+}
